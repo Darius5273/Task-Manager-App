@@ -7,13 +7,13 @@ The Task Management App is a simple yet powerful task management tool built usin
 
 ## Features
 
-- ✅ **Add new tasks** with categories and priority levels
-- ✏️ **Edit tasks** and update their details
-- ✅ **Mark tasks as completed** and toggle their visibility
-- 🗑️ **Delete individual or all tasks**
-- 🔄 **Sort tasks** by recently added, priority, or last edited
-- 📂 **Filter tasks** by category
-- 💾 **LocalStorage integration** for task persistence
+- **Add new tasks** with categories and priority levels
+- **Edit tasks** and update their details
+- **Mark tasks as completed** and toggle their visibility
+- **Delete individual or all tasks**
+- **Sort tasks** by recently added, priority, or last edited
+- **Filter tasks** by category
+- **LocalStorage integration** for task persistence
 
 
 ## Technologies Used
